@@ -1,6 +1,6 @@
 # RestApiClient
 
-TODO: Write a gem description
+Experiments with a universal rest api client
 
 ## Installation
 
@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+See specs for now
 
 ## Contributing
 
