@@ -1,5 +1,6 @@
 require 'rest_api_client/version'
 
+require 'inflector'
 require 'faraday'
 require 'faraday_middleware'
 
